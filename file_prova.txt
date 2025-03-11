@@ -1,3 +1,7 @@
 FIle di prova
 
 Da caricare localmente
+
+Caricamento locale: fatto
+
+Modifiche locali da visualizzare in remoto
